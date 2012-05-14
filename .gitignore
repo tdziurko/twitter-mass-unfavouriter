@@ -1,0 +1,11 @@
+
+# ignore Maven target directories
+target
+
+#real password,etc file for Twitter access
+twitter4j.properties
+
+
+# ignore IntelliJ Idea files
+.idea
+*.iml
